@@ -137,9 +137,7 @@ Original Data:
 
 Moving Average:
 
-<img width="536" height="310" alt="image" src="https://github.com/user-attachments/assets/955052a4-8ac7-4e1b-ad5d-2efc95d654ab" />
-
-<img width="416" height="507" alt="image" src="https://github.com/user-attachments/assets/19d46d28-ba9e-4446-aa01-f43bdd1b5b85" />
+<img width="443" height="832" alt="image" src="https://github.com/user-attachments/assets/2772bf06-e5d1-466a-8957-f2a00e909d3b" />
 
 Plot Transform Dataset:
 
